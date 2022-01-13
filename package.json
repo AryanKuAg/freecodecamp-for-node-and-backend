@@ -4,8 +4,7 @@
   "version": "1.2.0",
   "description": "This project gives me the cerfiticate of freecodecamp",
   "dependencies": {
-    "express": "^4.17.2",
-    "moment": "^2.10.2"
+    "express": "^4.17.2"
   },
   "main": "server.js",
   "scripts": {
