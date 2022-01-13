@@ -1,6 +1,7 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Aryan Agrawal",
+  "version": "1.2.0",
   "description": "This project gives me the cerfiticate of freecodecamp",
   "dependencies": {
     "express": "^4.17.2"
