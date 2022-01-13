@@ -1,8 +1,9 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Aryan Agrawal",
+  "description": "This project gives me the cerfiticate of freecodecamp",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.17.2"
   },
   "main": "server.js",
   "scripts": {
